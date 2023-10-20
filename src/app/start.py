@@ -106,7 +106,7 @@ def schema_validation_error(error):
 
 
 # =============================================================================
-@app.cli.command()
-def create_dummy_users():
-    """Run script to create dummy users"""
-    create_dummy_users_command()
+# @app.cli.command()
+# def create_dummy_users():
+#     """Run script to create dummy users"""
+#     create_dummy_users_command()
